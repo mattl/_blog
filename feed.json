@@ -1,11 +1,59 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Matt Lee (mattl)",
+	"title": "Dr. Matt Lee (mattl)",
 	"icon": "https://micro.blog/mattl/avatar.jpg",
 	"home_page_url": "https://micro.mat.tl/",
 	"feed_url": "https://micro.mat.tl/feed.json",
 	"items": [
 		
+			{
+				"id": "http://mattl.micro.blog/2024/08/10/i-got-a.html",
+				
+				"content_html": "<p>I got a chance to archive a local to me news site. It’s WordPress. What should I do?</p>\n<p>Please point to actual tips.</p>\n",
+				"content_text": "I got a chance to archive a local to me news site. It’s WordPress. What should I do? \n\nPlease point to actual tips. \n",
+				"date_published": "2024-08-10T00:28:29-04:00",
+				"url": "https://micro.mat.tl/2024/08/10/i-got-a.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/10/happy-to-admit.html",
+				
+				"content_html": "<p>Happy to admit I’ve had <code>emacs</code> aliased to nova.app for the last year or so. Not the only editor I use but I haven’t used\nGNU Emacs/rmsmacs intentionally in a few years now.</p>\n",
+				"content_text": "Happy to admit I’ve had `emacs` aliased to nova.app for the last year or so. Not the only editor I use but I haven’t used\nGNU Emacs/rmsmacs intentionally in a few years now. \n",
+				"date_published": "2024-08-10T00:03:32-04:00",
+				"url": "https://micro.mat.tl/2024/08/10/happy-to-admit.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/09/might-just-signing.html",
+				
+				"content_html": "<p>Might just signing everything as “Millsy” for a week and see if anyone notices.</p>\n",
+				"content_text": "Might just signing everything as “Millsy” for a week and see if anyone notices. \n",
+				"date_published": "2024-08-09T23:58:10-04:00",
+				"url": "https://micro.mat.tl/2024/08/09/might-just-signing.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/09/i-hope-we.html",
+				
+				"content_html": "<p>I hope we have a United Ireland before we agree than both vim and emacs are fine.</p>\n",
+				"content_text": "I hope we have a United Ireland before we agree than both vim and emacs are fine. \n",
+				"date_published": "2024-08-09T23:55:53-04:00",
+				"url": "https://micro.mat.tl/2024/08/09/i-hope-we.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/09/to-the-guy.html",
+				
+				"content_html": "<p>To the guy at the bar bemoaning the lack of Bolocos that are still open. I hope you go to the two in Boston every possible day for the rest of your trip. Enjoy.</p>\n",
+				"content_text": "To the guy at the bar bemoaning the lack of Bolocos that are still open. I hope you go to the two in Boston every possible day for the rest of your trip. Enjoy. \n",
+				"date_published": "2024-08-09T22:38:29-04:00",
+				"url": "https://micro.mat.tl/2024/08/09/to-the-guy.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/09/havent-gotten-a.html",
+				
+				"content_html": "<p>Haven’t gotten a political SMS yet that didn’t call me Matthew yet. How I know they’re pulling from some database.</p>\n<p>If you want my attention, send me a DM or an email and you probably won’t get my name wrong, 100% legit political volunteers.</p>\n<p>Also I already posted how I’m gonna vote.</p>\n",
+				"content_text": "Haven’t gotten a political SMS yet that didn’t call me Matthew yet. How I know they’re pulling from some database. \n\nIf you want my attention, send me a DM or an email and you probably won’t get my name wrong, 100% legit political volunteers. \n\nAlso I already posted how I’m gonna vote. \n",
+				"date_published": "2024-08-09T22:35:10-04:00",
+				"url": "https://micro.mat.tl/2024/08/09/havent-gotten-a.html"
+			},
 			{
 				"id": "http://mattl.micro.blog/2024/08/06/removed-discord-from.html",
 				
