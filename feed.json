@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://mattl.micro.blog/2024/08/24/it-would-be.html",
+				
+				"content_html": "<ol start=\"1993\">\n<li>It would be over a year before I even saw my first website in a graphical browser which is when I realized that h1 would look bigger than h2. I wrote my whole page in a single line of HTML because I was worried about line endings. #xoxofest #myfirstwebsite</li>\n</ol>\n",
+				"content_text": "1993. It would be over a year before I even saw my first website in a graphical browser which is when I realized that h1 would look bigger than h2. I wrote my whole page in a single line of HTML because I was worried about line endings. #xoxofest #myfirstwebsite\n",
+				"date_published": "2024-08-24T16:45:30-04:00",
+				"url": "https://micro.mat.tl/2024/08/24/it-would-be.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/22/new-rule-you.html",
+				
+				"content_html": "<p>New rule: you can only call it an article if it’s in the HTML <!-- raw HTML omitted --> tag.</p>\n",
+				"content_text": "New rule: you can only call it an article if it’s in the HTML <article> tag. \n",
+				"date_published": "2024-08-22T16:33:43-04:00",
+				"url": "https://micro.mat.tl/2024/08/22/new-rule-you.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/21/cvs-in-boston.html",
+				
+				"content_html": "<p>CVS in Boston is bad at times. CVS in downtown Portland is basically a drugstore showroom but without anyone to actually sell you the stuff.</p>\n",
+				"content_text": "CVS in Boston is bad at times. CVS in downtown Portland is basically a drugstore showroom but without anyone to actually sell you the stuff. \n",
+				"date_published": "2024-08-21T22:36:08-04:00",
+				"url": "https://micro.mat.tl/2024/08/21/cvs-in-boston.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/21/arrived-in-portland.html",
+				
+				"content_html": "<p>Arrived in Portland. #xoxofest</p>\n",
+				"content_text": "Arrived in Portland. #xoxofest \n",
+				"date_published": "2024-08-21T20:57:02-04:00",
+				"url": "https://micro.mat.tl/2024/08/21/arrived-in-portland.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/21/amtrak-bidup-emailtext.html",
+				
+				"content_html": "<p>Amtrak Bidup email/text message was just 7 mins before the train is due to start boarding. That’s a new one. Anyway, #poorbid even though it said it was a good bid.</p>\n<p>Thanks Amtrak. Thamtrak.</p>\n",
+				"content_text": "Amtrak Bidup email/text message was just 7 mins before the train is due to start boarding. That’s a new one. Anyway, #poorbid even though it said it was a good bid. \n\nThanks Amtrak. Thamtrak. \n",
+				"date_published": "2024-08-21T16:47:04-04:00",
+				"url": "https://micro.mat.tl/2024/08/21/amtrak-bidup-emailtext.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/21/please-dont-have.html",
+				
+				"content_html": "<p>Please don’t have the first thing you do when someone follows you back on social media be to send a DM that just says “hello”.</p>\n",
+				"content_text": "Please don’t have the first thing you do when someone follows you back on social media be to send a DM that just says “hello”. \n",
+				"date_published": "2024-08-21T16:26:54-04:00",
+				"url": "https://micro.mat.tl/2024/08/21/please-dont-have.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/21/arrived-in-seattle.html",
+				
+				"content_html": "<p>Arrived in Seattle.</p>\n",
+				"content_text": "Arrived in Seattle. \n",
+				"date_published": "2024-08-21T12:51:24-04:00",
+				"url": "https://micro.mat.tl/2024/08/21/arrived-in-seattle.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/20/the-s-version.html",
+				
+				"content_html": "<p>The 90s version of Cluedo is weird. People appear as one off actors or celebrity detectives and then reappear in the next season as a main cast member.</p>\n<p>Imagine if they never stopped.</p>\n<p>30 years later we’d have comedians who only appear on panel shows pretending they didn’t kill people from Taskmaster.</p>\n",
+				"content_text": "The 90s version of Cluedo is weird. People appear as one off actors or celebrity detectives and then reappear in the next season as a main cast member. \n\nImagine if they never stopped. \n\n30 years later we’d have comedians who only appear on panel shows pretending they didn’t kill people from Taskmaster.\n",
+				"date_published": "2024-08-20T17:38:17-04:00",
+				"url": "https://micro.mat.tl/2024/08/20/the-s-version.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/19/wednesday-were-flying.html",
+				
+				"content_html": "<p>Wednesday we’re flying from Boston to Seattle and then taking Amtrak from Seattle down to Portland.</p>\n<p>Looking forward to a couple hours in Seattle and then a beautiful train ride to Portland.</p>\n<p>#xoxofest</p>\n",
+				"content_text": "Wednesday we’re flying from Boston to Seattle and then taking Amtrak from Seattle down to Portland. \n\nLooking forward to a couple hours in Seattle and then a beautiful train ride to Portland.  \n\n#xoxofest\n",
+				"date_published": "2024-08-19T19:54:42-04:00",
+				"url": "https://micro.mat.tl/2024/08/19/wednesday-were-flying.html"
+			},
+			{
 				"id": "http://mattl.micro.blog/2024/08/19/all-patreon-memberships.html",
 				
 				"content_html": "<p>All Patreon memberships cancelled.</p>\n<p>A couple I’ll be moving to Kofi.</p>\n<p>My name is updated on Patreon to “Dr. Matt Lee (cancelled all Patreon memberships due to Patreon policies and restrictions)” — kinda hoping it makes it into the credits on a YouTube video now.</p>\n",
