@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://mattl.micro.blog/2024/09/03/seeing-peter-hook.html",
+				
+				"content_html": "<p>Seeing Peter Hook at the Light tonight in Boston.</p>\n",
+				"content_text": "Seeing Peter Hook at the Light tonight in Boston. \n",
+				"date_published": "2024-09-03T19:34:24-04:00",
+				"url": "https://micro.mat.tl/2024/09/03/seeing-peter-hook.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/03/buy-oneget-one.html",
+				
+				"content_html": "<p>Buy one-get one free at Boloco today. So Boloco for lunch and dinner today.</p>\n",
+				"content_text": "Buy one-get one free at Boloco today. So Boloco for lunch and dinner today.\n",
+				"date_published": "2024-09-03T15:14:33-04:00",
+				"url": "https://micro.mat.tl/2024/09/03/buy-oneget-one.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/03/finally-got-myself.html",
+				
+				"content_html": "<p>Finally got myself subscribed to 404Media.</p>\n",
+				"content_text": "Finally got myself subscribed to 404Media.\n",
+				"date_published": "2024-09-03T15:00:03-04:00",
+				"url": "https://micro.mat.tl/2024/09/03/finally-got-myself.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/02/im-going-to.html",
+				
+				"content_html": "<p>I&rsquo;m going to try out OmniFocus. I already installed it and it does seem to be what I want. We&rsquo;ll see if that lasts.</p>\n",
+				"content_text": "I'm going to try out OmniFocus. I already installed it and it does seem to be what I want. We'll see if that lasts.\n",
+				"date_published": "2024-09-02T17:52:57-04:00",
+				"url": "https://micro.mat.tl/2024/09/02/im-going-to.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/02/no-hyphens-in.html",
+				
+				"content_html": "<p>No hyphens in tag names. Yes hyphens in web-component names.</p>\n<p>I need to write that somewhere.</p>\n",
+				"content_text": "No hyphens in tag names. Yes hyphens in web-component names.\n\nI need to write that somewhere. \n",
+				"date_published": "2024-09-02T17:52:22-04:00",
+				"url": "https://micro.mat.tl/2024/09/02/no-hyphens-in.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/02/canceled-my-nanowrimo.html",
+				
+				"content_html": "<p>Canceled my Nanowrimo account because of their stupid thoughts on AI.</p>\n<p><a href=\"https://nanowrimo.zendesk.com/hc/en-us/articles/29933455931412-What-is-NaNoWriMo-s-position-on-Artificial-Intelligence-AI\">nanowrimo.zendesk.com/hc/en-us/&hellip;</a></p>\n<p>#No-AI</p>\n",
+				"content_text": "Canceled my Nanowrimo account because of their stupid thoughts on AI. \n\n[nanowrimo.zendesk.com/hc/en-us/...](https://nanowrimo.zendesk.com/hc/en-us/articles/29933455931412-What-is-NaNoWriMo-s-position-on-Artificial-Intelligence-AI)\n\n#No-AI\n",
+				"date_published": "2024-09-02T17:51:28-04:00",
+				"url": "https://micro.mat.tl/2024/09/02/canceled-my-nanowrimo.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/31/just-bought-noaiclub.html",
+				
+				"content_html": "<p>Just bought no-ai.club. I’ll let you all know how to join the club soon. There will be stickers.</p>\n",
+				"content_text": "Just bought no-ai.club. I’ll let you all know how to join the club soon. There will be stickers. \n",
+				"date_published": "2024-08-31T17:00:59-04:00",
+				"url": "https://micro.mat.tl/2024/08/31/just-bought-noaiclub.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/31/trying-to-get.html",
+				
+				"content_html": "<p>Trying to get organized. Looking for a todo app that doesn&rsquo;t have any AI stuff. All suggestions welcome, even open source software. I don&rsquo;t want to use a text file to keep myself organized though, as that&rsquo;s clearly not working for me. Ideally it runs in a browser.</p>\n",
+				"content_text": "Trying to get organized. Looking for a todo app that doesn't have any AI stuff. All suggestions welcome, even open source software. I don't want to use a text file to keep myself organized though, as that's clearly not working for me. Ideally it runs in a browser. \n",
+				"date_published": "2024-08-31T14:50:31-04:00",
+				"url": "https://micro.mat.tl/2024/08/31/trying-to-get.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/29/th-inning-presented.html",
+				
+				"content_html": "<p>“9th inning presented by Jimmy John’s”</p>\n<p>We’re doing this to ourselves.</p>\n",
+				"content_text": "“9th inning presented by Jimmy John’s”\n\nWe’re doing this to ourselves. \n",
+				"date_published": "2024-08-29T23:54:24-04:00",
+				"url": "https://micro.mat.tl/2024/08/29/th-inning-presented.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/29/im-matt-i.html",
+				
+				"content_html": "<p>I’m Matt. I like NeXT and the web. 👋</p>\n",
+				"content_text": "I’m Matt. I like NeXT and the web. 👋\n",
+				"date_published": "2024-08-29T23:34:15-04:00",
+				"url": "https://micro.mat.tl/2024/08/29/im-matt-i.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/29/please-dont-use.html",
+				
+				"content_html": "<p>Please don’t use AI for anything, ever. That includes Adobe Illustrator.</p>\n",
+				"content_text": "Please don’t use AI for anything, ever. That includes Adobe Illustrator. \n",
+				"date_published": "2024-08-29T23:16:08-04:00",
+				"url": "https://micro.mat.tl/2024/08/29/please-dont-use.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/08/29/songs-i-never.html",
+				
+				"content_html": "<p>Songs I never want to hear: Shipping Up To Boston</p>\n",
+				"content_text": "Songs I never want to hear: Shipping Up To Boston \n",
+				"date_published": "2024-08-29T21:33:18-04:00",
+				"url": "https://micro.mat.tl/2024/08/29/songs-i-never.html"
+			},
+			{
 				"id": "http://mattl.micro.blog/2024/08/29/obsidian.html",
 				"title": "Obsidian",
 				"content_html": "<p>Trying <a href=\"https://obsidian.md\">Obsidian</a> for posting things. Curious how well it&rsquo;ll work.</p>\n",
@@ -51,7 +147,7 @@
 				
 				"content_html": "<p>Watching Deep Blue Sea. I hope there’s no eels in this.</p>\n",
 				"content_text": "Watching Deep Blue Sea. I hope there’s no eels in this.\n",
-				"date_published": "2024-08-28T19:19:30-07:00",
+				"date_published": "2024-08-28T22:19:30-04:00",
 				"url": "https://micro.mat.tl/2024/08/28/watching-deep-blue.html"
 			},
 			{
@@ -59,7 +155,7 @@
 				
 				"content_html": "<p>New blog post: front end study hall.</p>\n<p><a href=\"https://blog.mat.tl/2024/08/27/front-end-study-hall/\">blog.mat.tl/2024/08/2&hellip;</a></p>\n",
 				"content_text": "New blog post: front end study hall. \n\n[blog.mat.tl/2024/08/2...](https://blog.mat.tl/2024/08/27/front-end-study-hall/)\n",
-				"date_published": "2024-08-27T13:45:44-07:00",
+				"date_published": "2024-08-27T16:45:44-04:00",
 				"url": "https://micro.mat.tl/2024/08/27/new-blog-post.html"
 			},
 			{
@@ -67,7 +163,7 @@
 				
 				"content_html": "<p>Instead of bags of chips, airlines should serve hotdogs. Details TBC.</p>\n",
 				"content_text": "Instead of bags of chips, airlines should serve hotdogs. Details TBC. \n",
-				"date_published": "2024-08-27T06:48:53-07:00",
+				"date_published": "2024-08-27T09:48:53-04:00",
 				"url": "https://micro.mat.tl/2024/08/27/instead-of-bags.html"
 			},
 			{
@@ -75,7 +171,7 @@
 				
 				"content_html": "<p>Landed in BOS.</p>\n",
 				"content_text": "Landed in BOS. \n",
-				"date_published": "2024-08-26T17:30:44-07:00",
+				"date_published": "2024-08-26T20:30:44-04:00",
 				"url": "https://micro.mat.tl/2024/08/26/landed-in-bos.html"
 			},
 			{
@@ -83,7 +179,7 @@
 				
 				"content_html": "<p>I don’t care if Oasis have a reunion or not but the name oasisinet dot com is a wonderful relic of an older era of the web.</p>\n",
 				"content_text": "I don’t care if Oasis have a reunion or not but the name oasisinet dot com is a wonderful relic of an older era of the web. \n",
-				"date_published": "2024-08-26T10:44:33-07:00",
+				"date_published": "2024-08-26T13:44:33-04:00",
 				"url": "https://micro.mat.tl/2024/08/26/i-dont-care.html"
 			},
 			{
@@ -91,7 +187,7 @@
 				
 				"content_html": "<p>Happy birthday to Kel Mitchell.</p>\n",
 				"content_text": "Happy birthday to Kel Mitchell. \n",
-				"date_published": "2024-08-25T23:15:39-07:00",
+				"date_published": "2024-08-26T02:15:39-04:00",
 				"url": "https://micro.mat.tl/2024/08/25/happy-birthday-to.html"
 			},
 			{
@@ -99,7 +195,7 @@
 				
 				"content_html": "<p>Who is scared of spider plants? Name names.</p>\n",
 				"content_text": "Who is scared of spider plants? Name names. \n",
-				"date_published": "2024-08-25T22:45:32-07:00",
+				"date_published": "2024-08-26T01:45:32-04:00",
 				"url": "https://micro.mat.tl/2024/08/25/who-is-scared.html"
 			},
 			{
@@ -107,7 +203,7 @@
 				
 				"content_html": "<p>I want to meet someone who emigrated here from the happy world of Haribo.</p>\n",
 				"content_text": "I want to meet someone who emigrated here from the happy world of Haribo. \n",
-				"date_published": "2024-08-25T09:11:09-07:00",
+				"date_published": "2024-08-25T12:11:09-04:00",
 				"url": "https://micro.mat.tl/2024/08/25/i-want-to.html"
 			},
 			{
@@ -115,7 +211,7 @@
 				
 				"content_html": "<p>If you love #xoxofest I hope you’ll also love <a href=\"https://indieweb.org\">indieweb.org</a></p>\n<p>Tomorrow there’s an event in PDX.</p>\n<p><a href=\"https://events.indieweb.org/2024/08/indiewebcamp-portland-2024-8bucXDlLqR0k\">events.indieweb.org/2024/08/i&hellip;</a></p>\n<p>I also really love <a href=\"http://omg.lol\">omg.lol</a></p>\n<p>I won’t be there sadly.</p>\n",
 				"content_text": "If you love #xoxofest I hope you’ll also love [indieweb.org](https://indieweb.org) \n\nTomorrow there’s an event in PDX. \n\n[events.indieweb.org/2024/08/i...](https://events.indieweb.org/2024/08/indiewebcamp-portland-2024-8bucXDlLqR0k)\n\nI also really love [omg.lol](http://omg.lol) \n\nI won’t be there sadly. \n",
-				"date_published": "2024-08-24T21:07:36-07:00",
+				"date_published": "2024-08-25T00:07:36-04:00",
 				"url": "https://micro.mat.tl/2024/08/25/if-you-love.html"
 			},
 			{
@@ -123,7 +219,7 @@
 				
 				"content_html": "<p>Back at the hotel. I hope to see you all again #xoxofest</p>\n",
 				"content_text": "Back at the hotel. I hope to see you all again #xoxofest \n",
-				"date_published": "2024-08-24T21:01:39-07:00",
+				"date_published": "2024-08-25T00:01:39-04:00",
 				"url": "https://micro.mat.tl/2024/08/25/back-at-the.html"
 			},
 			{
