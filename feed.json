@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://mattl.micro.blog/2024/09/09/pumpkin-beer-is.html",
+				
+				"content_html": "<p>Pumpkin beer is out in New England. Halloween starts today. #indieweb</p>\n",
+				"content_text": "Pumpkin beer is out in New England. Halloween starts today. #indieweb\n",
+				"date_published": "2024-09-09T22:27:58-04:00",
+				"url": "https://micro.mat.tl/2024/09/09/pumpkin-beer-is.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/08/what-email-providers.html",
+				
+				"content_html": "<p>What email providers are people using that aren’t Microsoft or Gmail or Fastmail?</p>\n<p>(I’m currently using Fastmail for something)</p>\n<p>Please boost this so I can get a sense of what the wider community is using.</p>\n",
+				"content_text": "What email providers are people using that aren’t Microsoft or Gmail or Fastmail? \n\n(I’m currently using Fastmail for something)\n\nPlease boost this so I can get a sense of what the wider community is using. \n",
+				"date_published": "2024-09-08T14:01:53-04:00",
+				"url": "https://micro.mat.tl/2024/09/08/what-email-providers.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/08/heard-a-lot.html",
+				
+				"content_html": "<p>Heard a lot of songs covered by Weird Al in the last 24 hours.</p>\n",
+				"content_text": "Heard a lot of songs covered by Weird Al in the last 24 hours. \n",
+				"date_published": "2024-09-08T01:10:39-04:00",
+				"url": "https://micro.mat.tl/2024/09/08/heard-a-lot.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/06/got-a-self.html",
+				
+				"content_html": "<p>Got a self hosted WordPress site? Want a fancy modern static site?</p>\n<p><a href=\"https://github.com/mattl/wordpress-to-eleventy\">github.com/mattl/wor&hellip;</a></p>\n<p>I’d be curious to know how you get along with this. Let me know what breaks.</p>\n",
+				"content_text": "Got a self hosted WordPress site? Want a fancy modern static site? \n\n[github.com/mattl/wor...](https://github.com/mattl/wordpress-to-eleventy)\n\nI’d be curious to know how you get along with this. Let me know what breaks. \n",
+				"date_published": "2024-09-06T21:41:49-04:00",
+				"url": "https://micro.mat.tl/2024/09/06/got-a-self.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/06/anyone-else-buying.html",
+				
+				"content_html": "<p>Anyone else buying all the spoken word albums from the guy from that TV show that rescues dive bars, before they disappear?</p>\n",
+				"content_text": "Anyone else buying all the spoken word albums from the guy from that TV show that rescues dive bars, before they disappear?\n",
+				"date_published": "2024-09-06T00:20:56-04:00",
+				"url": "https://micro.mat.tl/2024/09/06/anyone-else-buying.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/06/anyone-else-over.html",
+				
+				"content_html": "<p>Anyone else over mid-30s thinking about mortality?</p>\n<ul>\n<li>\n<p>⏰ How many years online is a year in real life?</p>\n</li>\n<li>\n<p>📉 I need to write a will</p>\n</li>\n<li>\n<p>🔐 Need to make sure my server friend can access this stuff</p>\n</li>\n</ul>\n<p>It all feels fairly bleak tbh.</p>\n",
+				"content_text": "Anyone else over mid-30s thinking about mortality?\n\n- ⏰ How many years online is a year in real life?\n\n- 📉 I need to write a will\n\n- 🔐 Need to make sure my server friend can access this stuff \n\nIt all feels fairly bleak tbh. \n",
+				"date_published": "2024-09-06T00:15:41-04:00",
+				"url": "https://micro.mat.tl/2024/09/06/anyone-else-over.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/05/we-are-bored.html",
+				
+				"content_html": "<p>We are bored in the city.</p>\n",
+				"content_text": "We are bored in the city. \n",
+				"date_published": "2024-09-05T23:33:26-04:00",
+				"url": "https://micro.mat.tl/2024/09/05/we-are-bored.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/05/lack-of-headphones.html",
+				
+				"content_html": "<p>Lack of headphones solved by simply plugging in a HomePod on my desk and listening to New Order on that. Doesn&rsquo;t sound too bad, actually.</p>\n",
+				"content_text": "Lack of headphones solved by simply plugging in a HomePod on my desk and listening to New Order on that. Doesn't sound too bad, actually.\n",
+				"date_published": "2024-09-05T13:40:36-04:00",
+				"url": "https://micro.mat.tl/2024/09/05/lack-of-headphones.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/05/cant-find-any.html",
+				
+				"content_html": "<p>Can&rsquo;t find any of my headphones. Found my 30 pin charging cable and my iPod Classic though.</p>\n",
+				"content_text": "Can't find any of my headphones. Found my 30 pin charging cable and my iPod Classic though. \n",
+				"date_published": "2024-09-05T13:19:35-04:00",
+				"url": "https://micro.mat.tl/2024/09/05/cant-find-any.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/05/it-is-wild.html",
+				
+				"content_html": "<p>It is wild to me how much better I can see with my glasses on. I should probably wear them more often, huh? At the same time, stuff at the periphery of my vision is blurry and I think that makes me feel uneasy so I wind up taking them off a lot, and then forget to put them back on.</p>\n",
+				"content_text": "It is wild to me how much better I can see with my glasses on. I should probably wear them more often, huh? At the same time, stuff at the periphery of my vision is blurry and I think that makes me feel uneasy so I wind up taking them off a lot, and then forget to put them back on.\n",
+				"date_published": "2024-09-05T12:59:20-04:00",
+				"url": "https://micro.mat.tl/2024/09/05/it-is-wild.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/04/youtubers-should-refer.html",
+				
+				"content_html": "<p>YouTubers should refer to people who watch YouTube, not people who make videos for it.</p>\n",
+				"content_text": "YouTubers should refer to people who watch YouTube, not people who make videos for it. \n",
+				"date_published": "2024-09-04T21:21:01-04:00",
+				"url": "https://micro.mat.tl/2024/09/04/youtubers-should-refer.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/03/the-way-cars.html",
+				
+				"content_html": "<p>The way cars drive k, especially at night makes me wonder how everyone who rides a bike isn’t dead? It’s so bad.</p>\n",
+				"content_text": "The way cars drive k, especially at night makes me wonder how everyone who rides a bike isn’t dead? It’s so bad. \n",
+				"date_published": "2024-09-03T23:19:02-04:00",
+				"url": "https://micro.mat.tl/2024/09/03/the-way-cars.html"
+			},
+			{
 				"id": "http://mattl.micro.blog/2024/09/03/seeing-peter-hook.html",
 				
 				"content_html": "<p>Seeing Peter Hook at the Light tonight in Boston.</p>\n",
