@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://mattl.micro.blog/2024/09/15/taskmaster-new-zealand.html",
+				
+				"content_html": "<p>Taskmaster New Zealand is on the Taskmaster YouTube channel and it’s wonderful. <a href=\"https://youtube.com/@taskmaster\">youtube.com/@taskmast&hellip;</a></p>\n",
+				"content_text": "Taskmaster New Zealand is on the Taskmaster YouTube channel and it’s wonderful. [youtube.com/@taskmast...](https://youtube.com/@taskmaster) \n",
+				"date_published": "2024-09-15T12:10:00-04:00",
+				"url": "https://micro.mat.tl/2024/09/15/taskmaster-new-zealand.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/13/share-your-nintendo.html",
+				
+				"content_html": "<p>Share your Nintendo Switch friend code.</p>\n<p><a href=\"https://lounge.nintendo.com/friendcode/1232-7332-6150/Crx7KrdM8L\">lounge.nintendo.com/friendcod&hellip;</a></p>\n<p>See how: <a href=\"https://indieweb.org/Nintendo_Switch\">indieweb.org/Nintendo_&hellip;</a></p>\n",
+				"content_text": "Share your Nintendo Switch friend code. \n\n[lounge.nintendo.com/friendcod...](https://lounge.nintendo.com/friendcode/1232-7332-6150/Crx7KrdM8L)\n\nSee how: [indieweb.org/Nintendo_...](https://indieweb.org/Nintendo_Switch)\n",
+				"date_published": "2024-09-13T13:25:34-04:00",
+				"url": "https://micro.mat.tl/2024/09/13/share-your-nintendo.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/10/make-a-llate.html",
+				
+				"content_html": "<p>Make a llate night version of Chopped where everyone’s worked a full day. Also Ted serves drinks and everyone curses constantly.</p>\n",
+				"content_text": "Make a llate night version of Chopped where everyone’s worked a full day. Also Ted serves drinks and everyone curses constantly. \n",
+				"date_published": "2024-09-10T20:47:20-04:00",
+				"url": "https://micro.mat.tl/2024/09/10/make-a-llate.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/09/sire-i-am.html",
+				
+				"content_html": "<p>SIRE, I AM FROM THE OTHER COUNTRY</p>\n<p><a href=\"https://github.com/foocorp/hacienda/blob/main/city.md\">github.com/foocorp/h&hellip;</a></p>\n",
+				"content_text": "SIRE, I AM FROM THE OTHER COUNTRY\n\n[github.com/foocorp/h...](https://github.com/foocorp/hacienda/blob/main/city.md)\n",
+				"date_published": "2024-09-09T22:43:28-04:00",
+				"url": "https://micro.mat.tl/2024/09/09/sire-i-am.html"
+			},
+			{
 				"id": "http://mattl.micro.blog/2024/09/09/pumpkin-beer-is.html",
 				
 				"content_html": "<p>Pumpkin beer is out in New England. Halloween starts today. #indieweb</p>\n",
