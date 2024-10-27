@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mattl.micro.blog/2024/10/26/for-the-first.html",
+				
+				"content_html": "<p>For the first time in a long time I have no future issues of White Dwarf coming and no real plans to buy one.</p>\n<p>The font size is too small.</p>\n",
+				"content_text": "For the first time in a long time I have no future issues of White Dwarf coming and no real plans to buy one. \n\nThe font size is too small.\n\n",
+				"date_published": "2024-10-26T22:52:17-04:00",
+				"url": "https://mattl.micro.blog/2024/10/26/for-the-first.html"
+			},
+			{
+				"id": "http://mattl.micro.blog/2024/09/30/after-almost-two.html",
+				
+				"content_html": "<p>After almost two years my music community, Libre.fm is back open for registration.</p>\n<p><a href=\"https://libre.fm/register.php?foo=alpha\">libre.fm/register&hellip;.</a></p>\n<p>If you don&rsquo;t get the registration email, I&rsquo;m guessing you run your own mail server?</p>\n<p>#librefm</p>\n",
+				"content_text": "After almost two years my music community, Libre.fm is back open for registration.\r\n\r\n[libre.fm/register....](https://libre.fm/register.php?foo=alpha)\r\n\r\nIf you don't get the registration email, I'm guessing you run your own mail server?\r\n\r\n#librefm\n",
+				"date_published": "2024-09-30T12:36:28-04:00",
+				"url": "https://mattl.micro.blog/2024/09/30/after-almost-two.html"
+			},
+			{
 				"id": "http://mattl.micro.blog/2024/09/28/now-seated-for.html",
 				
 				"content_html": "<p>Now seated for Megalopolis.</p>\n",
